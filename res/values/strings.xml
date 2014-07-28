@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">H264Viewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="result_text">Found plain text</string>
+    <string name="scan">Scan QR code in the area.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="isadd">Add New Camera?</string>
+    <string name="rescan">Rescan</string>
+    <string name="addsuc">Add Success</string>
+    <string name="addcamera">Add Camera</string>
+    <string name="isdel">Delete %1$s ?</string>
+    <string name="preview">Preview</string>
+    <string name="devices">Devices</string>
+    <string name="chosecamera">Chose Camera</string>
+</resources>
